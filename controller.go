@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"html/template"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/roles"
+	"github.com/kisrobot/admin"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/roles"
 )
 
 type controller struct {

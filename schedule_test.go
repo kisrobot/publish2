@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/publish2"
+	"github.com/kisrobot/publish2"
 )
 
 type Discount struct {

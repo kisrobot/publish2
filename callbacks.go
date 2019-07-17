@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor/utils"
+	"github.com/kisrobot/qor/utils"
 )
 
 const (

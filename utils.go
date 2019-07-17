@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
+	"github.com/kisrobot/qor"
+	"github.com/kisrobot/qor/utils"
 )
 
 func getPublishScheduleTime(context *qor.Context) string {
